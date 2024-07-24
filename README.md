@@ -29,7 +29,6 @@ Ensure you have Python and Node.js installed on your system to set up and run th
   python app.py
   ```
 
-
 # How to Use
 - Open your web browser and go to http://localhost:5000/ to access the calculator.
 - Select the desired calculation type from the dropdown menu and fill in the required input fields.
@@ -41,3 +40,15 @@ Ensure you have Python and Node.js installed on your system to set up and run th
 - Power Transmitted: Input various gains, losses, and power levels to compute the transmitted power.
 - Throughput: Configure the system for throughput calculations based on different access methods.
 - Cellular System Design: Calculate essential parameters for designing a cellular system
+
+## Sample Calculations
+
+### Sample Calculator Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbf4c20c-145d-4e07-923e-cd764e95ec1d" width="900">
+</p>
+
+### Sample Result
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa9bdf7d-ffc8-4ca1-80d6-8783ff954765" width="600">
+</p>
