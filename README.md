@@ -1,1 +1,1 @@
-# Wireless-and-Mobile-Networks-Calculater
+# Wireless and Mobile Networks Calculater
